@@ -2,7 +2,7 @@
 
 <!--INICIO del cont principal-->
 <div class="container">
-    <h1>Página de Cards</h1>
+    <h1>Página de Cards-PRUEBASS</h1>
 </div>
 <!--FIN del cont principal-->
 
